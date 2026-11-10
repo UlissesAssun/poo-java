@@ -1,0 +1,16 @@
+# Binários compilados
+bin/
+*.class
+
+# Ambientes e IDEs
+.vscode/
+.idea/
+*.iml
+nbproject/
+nbproject/private/
+build/
+dist/
+
+# Sistema operacional
+Thumbs.db
+.DS_Store
